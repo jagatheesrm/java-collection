@@ -55,3 +55,7 @@ for (String fruit : set) {
 ## If you find a bug or would like to suggest an improvement, please open an issue or submit a pull request. We welcome contributions from anyone!
 :+1:
 
+## License
+
+[MIT License] (LICENSE)
+
