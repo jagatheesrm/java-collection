@@ -57,5 +57,5 @@ for (String fruit : set) {
 
 ## License
 
-[MIT License] (LICENSE)
+[MIT License](LICENSE)
 
