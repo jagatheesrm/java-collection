@@ -1,5 +1,7 @@
 # Java Collection Framework
 ## This project is a collection of Java classes that implement various data structures, including lists, sets, maps, queues, and deques. These classes provide convenient and efficient ways to store, manipulate, and retrieve data.
+![alt](https://static.javatpoint.com/images/java-collection-hierarchy.png)
+
 ## Usage
 
 To use these classes in your Java project, simply import the relevant package and instantiate the desired class. For example, to use the ArrayList class, you would do the following:
